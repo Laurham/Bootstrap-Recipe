@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html>
 <h1><div align="center">
 Lauren's Favorite Breakfast Recipe   
