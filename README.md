@@ -42,7 +42,7 @@ What Are We Making?</h2> <h4> By Lauren Hamilton </h4></div>
     <li> Place bread in skillet until it is golden brown, then flip to cook the other side</li>
     <li>Take the bread out of the skillet and top with syrup, extra cinnamon, or whip cream</li>
     
-   Panel Content</div>
+  </div>
 </div>
 </div>
 <body>
